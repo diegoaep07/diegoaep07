@@ -18,7 +18,8 @@ ___
 
 
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoaep07&langs_count=5&theme=github_dark&&layout=compact">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoaep07&langs_count=5&theme=github_dark&&layout=compact">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegoaep07&theme=github_dark">
   </div>
 
 
