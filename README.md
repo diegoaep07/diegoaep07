@@ -23,10 +23,6 @@ ___
 
 
 <div align="center">  
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=diegoaep07&theme=github_dark&hide_border=true" />  
-  </div>
-
-<div align="center">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegoaep07&theme=github_dark" />  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegoaep07&theme=github_dark" />  
   </div>
